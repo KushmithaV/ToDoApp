@@ -1,5 +1,4 @@
 # ToDoApp
-# To-Do App (Java Swing)
 
 A simple desktop To-Do list app built using Java Swing.
 
